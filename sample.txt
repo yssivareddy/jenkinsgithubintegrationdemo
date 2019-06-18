@@ -1,3 +1,4 @@
 echo "This is sample repo for jenkins-github integration demo"
+echo "testing jenkins"
 
 test, Testing email notification
